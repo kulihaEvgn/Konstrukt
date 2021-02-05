@@ -2,7 +2,6 @@ body{
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
   color: #48555B;
-  overflow: hidden;
   
 
   
@@ -112,7 +111,6 @@ h1,h2,h3,h4{
   justify-content: space-between;
   align-items: center;
   position: relative;
-  overflow: hidden;
 }
 .nav {
   display: flex;
@@ -150,7 +148,6 @@ h1,h2,h3,h4{
   padding-top: 14px;
   cursor: pointer;
   display: none;
-  overflow: hidden;
   
 }
 .burger__line {
