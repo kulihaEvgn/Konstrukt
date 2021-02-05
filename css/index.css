@@ -387,7 +387,7 @@ h1,h2,h3,h4{
   padding: 120px 0 230px 0;
   background: url('../img/bg-2.jpg') no-repeat center center;
   background-size: cover;
-  overflow: hidden;
+  
 }
 .build__iner {
   display: flex;
@@ -414,7 +414,7 @@ h1,h2,h3,h4{
 
 .signup {
   background-color: #171819;
-  overflow: hidden;
+  
 }
 .signup__iner {
   display: flex;
@@ -452,7 +452,7 @@ h1,h2,h3,h4{
 .footer {
   background-color: #141A20;
   padding: 48px 0 0 0;
-  overflow: hidden;
+  
 }
 .footer__iner{
   display: flex;
