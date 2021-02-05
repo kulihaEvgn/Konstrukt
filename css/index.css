@@ -608,7 +608,7 @@ h1,h2,h3,h4{
   transition: right .3s ease-in;
 }
 .burger__menu.hide{
-  display: block;
+  display: none;
   right: -530px;
   transition: right .3s ease-out;
 }
