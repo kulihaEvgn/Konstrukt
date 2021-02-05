@@ -1,3 +1,4 @@
+window.addEventListener('DOMContentLoaded', ()=>{
 const burgerButton = document.querySelector('.burger'),
       burgerMenu   = document.querySelector('.burger__menu'),
       menuItem = document.querySelectorAll('.burger__nav_item');
@@ -16,4 +17,5 @@ function toggleMenu(e) {
 }
 menuItem.forEach(i=>{
     i.addEventListener('click', toggleMenu);
+})
 })
