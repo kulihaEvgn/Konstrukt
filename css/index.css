@@ -55,7 +55,7 @@ h1,h2,h3,h4{
   background: url(../img/bg.jpg) no-repeat center center;
   background-size: cover;
   padding: 41px 0 71px;
-  
+  overflow: hidden;
   
 }
 
@@ -387,7 +387,7 @@ h1,h2,h3,h4{
   padding: 120px 0 230px 0;
   background: url('../img/bg-2.jpg') no-repeat center center;
   background-size: cover;
-  
+  overflow: hidden;
 }
 .build__iner {
   display: flex;
@@ -414,7 +414,7 @@ h1,h2,h3,h4{
 
 .signup {
   background-color: #171819;
-  
+  overflow: hidden;
 }
 .signup__iner {
   display: flex;
@@ -452,7 +452,7 @@ h1,h2,h3,h4{
 .footer {
   background-color: #141A20;
   padding: 48px 0 0 0;
-  
+  overflow: hidden;
 }
 .footer__iner{
   display: flex;
@@ -605,7 +605,7 @@ h1,h2,h3,h4{
   transition: right .3s ease-in;
 }
 .burger__menu.hide{
-  display:none;
+  display: none;
   right: -530px;
   transition: right .3s ease-out;
 }
